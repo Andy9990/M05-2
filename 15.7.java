@@ -32,7 +32,7 @@ float h = 750;
 
 Circle C = new Circle(w/2, h/2,
 
-Math.min(w h)/15, Color.WHITE);
+Math.min(w, h)/15, Color.WHITE);
 
 C.setStroke(Color.BLACK);
 
